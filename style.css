@@ -10,4 +10,22 @@
     background-color: blue;
 }
 
+.box_1{
+    flex-direction: row;
+    display:flex; 
+    background-color: pink;
+}
+
+.box_2{
+    flex-direction: row;
+    display:flex; 
+    background-color: green;
+}
+
+.box_3{
+    flex-direction: row; 
+    display:flex; 
+    background-color: blueviolet;
+}
+
 
