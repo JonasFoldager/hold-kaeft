@@ -28,4 +28,15 @@
     background-color: blueviolet;
 }
 
+.box_4{
+    flex-direction: row;
+    display:flex; 
+    background-color: brown;
+}
+
+.box_5{
+    flex-direction: row;
+    display:flex; 
+    background-color: bisque;
+}
 
