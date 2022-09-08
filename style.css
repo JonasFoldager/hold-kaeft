@@ -1,11 +1,11 @@
 .box_small{
     height: 100px;
     width: 100px;
-    color: red;
+    background-color: red;
 }
 
 .box_big{
     height: 200px;
     width: 200px;
-    color: blue;
+    background-color: blue;
 }
